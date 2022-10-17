@@ -1,1 +1,1 @@
-# banking-account
+# Banking account
